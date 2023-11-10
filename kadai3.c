@@ -1,0 +1,12 @@
+int main(void)
+{
+    int a,b,c;
+    /*足し算のプログラムだよ*/
+    a=5;
+    b=3;
+    c=a+b;
+    
+    printf("%d\n",c);
+   /*すごいや*/
+    return 0;
+}
